@@ -1,0 +1,30 @@
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore build directories
+/build/
+/bin/
+/dist/
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore editor or IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment or secret config files
+.env
